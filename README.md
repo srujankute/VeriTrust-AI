@@ -12,3 +12,11 @@ Unlike traditional models, this system uses a **Hybrid Headline-Consensus Logic*
 1. Clone the repo: `git clone https://github.com/srujankute/VeriTrust-AI.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run: `python app.py`
+
+## Demos
+### LogIn Page
+![LogIn Page](https://github.com/srujankute/netflix-dashboard-powerbi/blob/main/Executive%20Summary.png)
+### True DashBoard
+![True DashBoard](https://github.com/srujankute/netflix-dashboard-powerbi/blob/main/Executive%20Summary.png)
+### False DashBoard
+![False DashBoard](https://github.com/srujankute/netflix-dashboard-powerbi/blob/main/Executive%20Summary.png)
