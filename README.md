@@ -15,7 +15,7 @@ Unlike traditional models, this system uses a **Hybrid Headline-Consensus Logic*
 
 ## Demos
 ### LogIn Page
-![LogIn Page](https://github.com/srujankute/netflix-dashboard-powerbi/blob/main/Executive%20Summary.png)
+![LogIn Page](https://github.com/srujankute/VeriTrust-AI/blob/main/LogIn%20Page.png)
 ### True DashBoard
 ![True DashBoard](https://github.com/srujankute/netflix-dashboard-powerbi/blob/main/Executive%20Summary.png)
 ### False DashBoard
