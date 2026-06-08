@@ -19,4 +19,4 @@ Unlike traditional models, this system uses a **Hybrid Headline-Consensus Logic*
 ### True DashBoard
 ![True DashBoard](https://github.com/srujankute/VeriTrust-AI/blob/main/True%20Dashboard.png)
 ### False DashBoard
-![False DashBoard](https://github.com/srujankute/netflix-dashboard-powerbi/blob/main/Executive%20Summary.png)
+![False DashBoard](https://github.com/srujankute/VeriTrust-AI/blob/main/False%20Dashboard.png)
